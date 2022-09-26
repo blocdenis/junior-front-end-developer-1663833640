@@ -1,4 +1,4 @@
-let data = [
+export const data = [
   {
     color: "green",
     title: "Application setup",
